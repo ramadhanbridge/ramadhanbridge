@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-My proficiency in a wide range of programming languages such as HTML, CSS, JavaScript, React, Bootstrap, Sass, and Vue.js is only matched by my ability to quickly absorb new concepts and techniques. In addition, I possess a keen eye for detail and an aversion to substandard user interfaces. With my expertise in transforming mockups into fully functional code, I am confident that I can deliver outstanding results. Should you require a reliable and skilled professional who consistently meets and exceeds expectations, I encourage you to consider me for your next project.
+### I specialize in building robust, scalable web applications with a focus on clean architecture, performance optimization, and seamless user experiences. My expertise spans both frontend, backend development and infrastructure , allowing me to craft solutions that are not only functional but also elegant.
 
-cheers !!!
+### Whether it's designing intuitive interfaces or architecting complex systems, I thrive on turning ideas into reality. Let's collaborate to create software that makes a difference.
